@@ -15,4 +15,4 @@ let userInfo = {
 console.log(userInfo)
 
 let passadas = 39
-console.log({passadas})
+console.log({ passadas })

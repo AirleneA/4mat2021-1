@@ -5,7 +5,7 @@ let carros = {
     modelo: 'Fusca',
     ano: 1969,
     cor: 'preto'
-}// objeto
+} // objeto
 
 // Desestruturação do vetor
 let [x, y, z] = numeros

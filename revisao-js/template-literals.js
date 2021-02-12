@@ -1,7 +1,7 @@
 let nome = "Feicibuquisson"
 let idade = 7
 
-console.log('Meu nome é '+ nome + 'e eu tenho' + idade +'anos.cd' )
+console.log('Meu nome é '+ nome + 'e eu tenho' + idade +'anos.cd')
 
 //Usando string template e interpolação
 console. log(`Meu nome é ${nome} e eu tenho ${idade} anos.`)
